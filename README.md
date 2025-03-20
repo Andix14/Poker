@@ -1,0 +1,2 @@
+# Poker
+Java demonstration project
